@@ -37,6 +37,6 @@ You will need npm only for this project.
    npm run package
    ```
 
-Now your app is ready, you can get it from "out" directory. I would have published windows app here, but unfortunately, i'm not able to do that because of the size of the app. 
+Now your app is ready, you can get it from "out" directory. I would have published windows app here, but unfortunately, i'm not able to do that because of the size of the app. In order to use the app, you won't need any other package. only that folder in "out" folder will be needed. Extract that folder, somewhere else, and you can delete this folder with source code.
 
 <strong>THIS APP WEIGHTS A LOT. IF YOU DON'T HAVE ENOUGH MEMORY, DON'T INSTALL IT.</strong>
