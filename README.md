@@ -19,7 +19,9 @@ File-Xplorer allows users to navigate through their file system, view file conte
    git clone "https://github.com/Bahrom10/electronApp.git"
 
 2. Install dependecies:
+    ```
     npm i
 
 3. Run this project:
+    ```
     npm run dev
