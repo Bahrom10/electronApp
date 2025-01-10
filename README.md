@@ -14,14 +14,29 @@ File-Xplorer allows users to navigate through their file system, view file conte
 
 ## Installation
 
+Before you start, completing this steps, make sure you have Node.js installed on your machine.
+   ```
+   https://nodejs.org/en/download
+   ```
+You will need npm only for this project.
+
 1. Clone the repository:
    ```
    git clone "https://github.com/Bahrom10/electronApp.git"
-
+   ```
 2. Install dependecies:
     ```
     npm i
-
-3. Run this project:
     ```
-    npm run dev
+3. Run this command:
+    ```
+    npm run make
+    ```
+4. Package the app:
+   ```
+   npm run package
+   ```
+
+Now your app is ready, you can get it from "out" directory. I would have published windows app here, but unfortunately, i'm not able to do that because of the size of the app. 
+
+<strong>THIS APP WEIGHTS A LOT. IF YOU DON'T HAVE ENOUGH MEMORY, DON'T INSTALL IT.</strong>
